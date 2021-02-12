@@ -1,6 +1,6 @@
 
 # Soroush Messenger Bot PHP SDK
-Soroush Messenger Bot Wrapper for PHP  - testing guzzle v7.0 
+Soroush Messenger Bot Wrapper for PHP  - testing guzzle v7.0  package vvv
 
 ## Dependencies ##
 - PHP 5.6+
