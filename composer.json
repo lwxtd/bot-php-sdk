@@ -1,5 +1,5 @@
 {
-  "name": "soroush-app/bot-php-sdk",
+  "name": "lwxtd/bot-php-sdk",
   "description": "Soroush Messenger Bot Wrapper for PHP",
   "require": {
     "php": ">=5.6",
